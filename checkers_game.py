@@ -1,5 +1,5 @@
 from tkinter import Frame, Label, messagebox
-from checkers_board import CheckersSquare
+from checkers_square import CheckersSquare
 
 class CheckersGame(Frame):
     '''represents a game of Checkers'''
