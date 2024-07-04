@@ -356,14 +356,3 @@ winner = data["Winner"].iloc[0]
 ax[2].text(0.5, 0.5, winner, fontsize=12, ha='center')
 ax[2].set_title("Winner")
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
